@@ -1,4 +1,4 @@
-# README.MD
+# README.md
 
 ## run_analysis.R
 

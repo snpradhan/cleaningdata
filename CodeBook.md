@@ -1,4 +1,4 @@
-      # Data Dictinary - accelerometer and gyroscope data
+# Data Dictinary - accelerometer and gyroscope data
 ### activity:
 			 The activity name (WALKING,,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING)
 ### subject:
