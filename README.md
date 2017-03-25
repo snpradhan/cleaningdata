@@ -1,9 +1,10 @@
-** README.MD
+# README.MD
 
-*run_analysis.R
+## run_analysis.R
 
 This script first sets the paths of the data files in the project directory "Dataset"
 The script then reads the following.
+
 1. Features data which contains the column names of the test and training data.
 2. Activity data which contains the names of the activities
 3. Test data which contains the data from the 'Test' pool
